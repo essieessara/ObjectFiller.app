@@ -4,7 +4,6 @@ using System;
 using System.Collections.Generic;
 using Tynamix.ObjectFiller;
 
-//Console.WriteLine("Hello, World!");
 
     String num = "0123456789";
     int length = 10;
@@ -29,5 +28,4 @@ using Tynamix.ObjectFiller;
        Console.ReadLine();
     }
 
-//Console.WriteLine(Students[1]);
 
